@@ -1,7 +1,7 @@
 ### For Python
 #### For installation
 <li>
-  <ul>**EASY OPTION** - Install Thonny for bundled python & IDE for beginner python **OR ONLINE ONLY OPTION** create an account with Replit</ul>
+  <ul> **EASY OPTION** - Install Thonny for bundled python & IDE for beginner python **OR ONLINE ONLY OPTION** create an account with Replit</ul>
 <ul> **OR** (install python + Pycharm community edition) **OR** (anaconda (ecosystem with machine learning & scientific computing) + Spyder) </ul>
   </li>
 #### Prework
