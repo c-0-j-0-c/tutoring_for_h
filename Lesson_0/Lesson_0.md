@@ -5,13 +5,17 @@
 
 #### Prework
 ##### Prework Reading
-- Read Chapter of
-- *Alternative resoure: Read *
+- Read [Chapter 1](https://greenteapress.com/thinkpython2/html/thinkpython2002.html) & [Chapter 2](https://greenteapress.com/thinkpython2/html/thinkpython2003.html) of Think Python
+- *Alternative resource: Read Automate The Boring Stuff [Chapter 1](https://automatetheboringstuff.com/2e/chapter1/)*
   
 ##### Prework Exercises
-- Signup for Exercism
-- Signup for Coding bat
-- If you want a gamified option aimed towards kids try codecombat.com and 
+1. Do exercises from [Chapter 1](https://greenteapress.com/thinkpython2/html/thinkpython2002.html) & [Chapter 2](https://greenteapress.com/thinkpython2/html/thinkpython2003.html)  of Think Python
+- *Alternative resource: Do exercises from [Chapter 1](https://automatetheboringstuff.com/2e/chapter1/)*
+
+- Signup for [Exercism](https://exercism.org/)
+  - Read https://exercism.org/tracks/python/concepts/basics and do https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna
+- Maybe signup for (CodingBat)[https://codingbat.com/python]
+- If you want a gamified option aimed towards kids try [CodeCombat](https://codecombat.com/play) teaches you and [CheckiO](https://checkio.org/) needs some knowledge
 
 ### For SQL
 #### For installation
