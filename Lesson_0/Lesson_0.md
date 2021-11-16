@@ -10,7 +10,7 @@
   
 ##### Prework Exercises
 1. Do exercises from [Chapter 1](https://greenteapress.com/thinkpython2/html/thinkpython2002.html) & [Chapter 2](https://greenteapress.com/thinkpython2/html/thinkpython2003.html)  of Think Python
-- *Alternative resource: Do exercises from [Chapter 1](https://automatetheboringstuff.com/2e/chapter1/)*
+- *Alternative resource: Do exercises from [Chapter 1](https://automatetheboringstuff.com/2e/chapter1/) from ATBS* 
 
 - Signup for [Exercism](https://exercism.org/)
   - Read https://exercism.org/tracks/python/concepts/basics and do https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna
