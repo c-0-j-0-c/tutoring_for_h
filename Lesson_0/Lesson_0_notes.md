@@ -3,13 +3,13 @@
 ### SQL
 
 Sample Table **Person**
-
+```
 _________________________________________
 |ID | First Name | Surname | DOB        |
 ----------------------------------------
 | 0 |Bob        | Brown   | 1970-01-20  |
 -----------------------------------------
-
+```
 All basic Data Manipulation Language (DML) queries are of this basic structure.
 
 
