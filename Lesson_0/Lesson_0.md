@@ -20,7 +20,7 @@
 ### For SQL
 #### For installation
 - Install [WAMP](https://sourceforge.net/projects/wampserver/files/latest/download)
-- Install [MySQL Workbench 8.0.26](https://downloads.mysql.com/archives/get/p/8/file/mysql-workbench-community-8.0.26-winx64.msi)
+- Install [MySQL Workbench 8.0.26](https://downloads.mysql.com/archives/get/p/8/file/mysql-workbench-community-8.0.26-winx64.msi) Requirs Visual C++2019 which can be downloaded from here https://aka.ms/vs/17/release/vc_redist.x64.exe
 - Download SQL Files
   -
   -
