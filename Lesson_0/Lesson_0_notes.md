@@ -5,9 +5,9 @@
 <u>Overview</u></br>
 [Basic Query](#basic_query)
 [WHERE Clause](#where)
-[= (EQUALS)[#equal]
+[= (EQUALS)](#equal)
 [AND operator](#and)
-[<> (NOT EQUAL)[#not_equal]
+[<> (NOT EQUAL)](#not_equal)
 
 Sample Table **Person**
 ```
