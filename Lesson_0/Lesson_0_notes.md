@@ -40,9 +40,31 @@ Table Cat_Ownership_Summary
 ID | NumCats
 0  | 2
 
-We want to see the person's id and number of cats who own more than 2 cats.
+We want to see the person's id and number of cats who own more than 2 cats. We can use the greater than sign, `>`
 ```
 SELECT ID, NumCats
 FROM Cat_Ownership_Summary
 WHERE NumCats > 2;
 ```
+
+A strange person wants to see people who own 1 cat, 4 cats and 7 cats. We can use `IN` keyword
+```
+SELECT ID, NumCats
+FROM Cat_Ownership_Summary
+WHERE NumCats IN (1, 4, 7);
+```
+
+Someone believes that the right number of cats is between 3 and 6. We can use the `BETWEEN` keyword
+```
+SELECT ID, NumCats
+FROM Cat_Ownership_Summary
+WHERE NumCats BETWEEN 3 AND 6;
+```
+
+This could also be expressed less concisely as
+```
+SELECT ID, NumCats
+FROM Cat_Ownership_Summary
+WHERE NumCats >= 3 AND NumCats <= 6;
+```
+
