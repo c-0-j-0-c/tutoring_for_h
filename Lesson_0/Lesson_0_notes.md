@@ -3,6 +3,7 @@
 ### SQL
 
 <u>Overview</u></br>
+--------------------
 [Basic Query](#basic_query)</br>
 [WHERE Clause](#where)</br>
 [= (EQUALS)](#equal)</br>
