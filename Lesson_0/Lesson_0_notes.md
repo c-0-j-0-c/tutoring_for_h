@@ -1,5 +1,7 @@
 # Lesson 0 Notes
 
+##### Table of Contents
+
 ### SQL
 
 Overview</br>
@@ -110,3 +112,4 @@ FROM Person
 WHERE 'First Name' LIKE 'Z%'
 ```
 
+## Database Design
