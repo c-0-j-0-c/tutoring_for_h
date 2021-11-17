@@ -3,11 +3,11 @@
 ### SQL
 
 <u>Overview</u></br>
-[Basic Query](#basic_query)
-[WHERE Clause](#where)
-[= (EQUALS)](#equal)
-[AND operator](#and)
-[<> (NOT EQUAL)](#not_equal)
+[Basic Query](#basic_query)</br>
+[WHERE Clause](#where)</br>
+[= (EQUALS)](#equal)</br>
+[AND operator](#and)</br>
+[<> (NOT EQUAL)](#not_equal)</br>
 
 Sample Table **Person**
 ```
