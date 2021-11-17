@@ -2,6 +2,9 @@
 
 ### SQL
 
+<u>Overview</u>
+[Basic Query][#basic_query]
+
 Sample Table **Person**
 ```
 _________________________________________
@@ -10,7 +13,7 @@ _________________________________________
 | 0 |Bob        | Brown   | 1970-01-20  |
 -----------------------------------------
 ```
-All basic Data Manipulation Language (DML) queries are of this basic structure.
+<a id="basic_query">All basic Data Manipulation Language (DML) queries are of this basic structure.</a>
 
 
 ```
