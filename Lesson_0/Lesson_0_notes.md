@@ -2,7 +2,7 @@
 
 ### SQL
 
-<u>Overview</u>
+<u>Overview</u></br>
 [Basic Query](#basic_query)
 
 Sample Table **Person**
@@ -21,7 +21,26 @@ SELECT 'First Name', Surname, DOB
 FROM Person
 ```
 
+
+We are feeling really lazy and as we want to get all the columns from the table we can use the `*` operator
+
+```
+SELECT *
+FROM Person
+```
+
+We just want to see people's first names.
+
+When we choose a subset of columns using SQL, that is called Projection. This term comes from relational algebra.
+
+```
+SELECT 'First Name'
+FROM Person
+```
+
 Imagine you only want to find people with the first name Bob. Well in that case, let's introduce the `WHERE` clause
+
+When we choose a subset of rows using SQL, that is called Selection, this also comes from relational algebra. But Selection corresponds with `WHERE` **NOT** `SELECT`
 
 ```
 SELECT 'First Name', Surname, DOB
