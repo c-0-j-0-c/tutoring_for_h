@@ -3,7 +3,7 @@
 ### SQL
 
 <u>Overview</u>
-[Basic Query][#basic_query]
+[Basic Query](#basic_query)
 
 Sample Table **Person**
 ```
