@@ -27,9 +27,15 @@
   
 #### Prework
 ##### Prework Reading
--
+- https://sqlzoo.net/wiki/SELECT_Reference
+- Get started reading Bobby Iliev's Introduction to SQL: [Basic Syntax](https://github.com/bobbyiliev/introduction-to-sql/blob/main/ebook/en/content/004-basic-syntax.md), [Select] (https://github.com/bobbyiliev/introduction-to-sql/blob/main/ebook/en/content/005-select.md), [Tables](https://github.com/bobbyiliev/introduction-to-sql/blob/main/ebook/en/content/003-creating-tables.md), [Where](https://github.com/bobbyiliev/introduction-to-sql/blob/main/ebook/en/content/006-where.md)
 ##### Prework Exercises
--
+- https://sqlzoo.net/wiki/SELECT_basics
+- https://sqlzoo.net/wiki/SELECT_names
+- https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
+- https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
+- https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial
+
 ### For Database Design
-  <li> Read this webpage.
+  <li> Read this chapter [The Relationship Data Model](https://opentextbc.ca/dbdesign01/chapter/ Mochapter-7-the-relational-data-model/) and [Entity-Relationship Model](https://opentextbc.ca/dbdesign01/chapter/chapter-8-entity-relationship-model/)
     </li>
