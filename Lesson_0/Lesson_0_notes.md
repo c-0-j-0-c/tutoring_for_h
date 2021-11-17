@@ -1,8 +1,8 @@
-## Lesson 0 Notes
+# Lesson 0 Notes
 
 ### SQL
 
-<u>Overview</u></br>
+Overview</br>
 --------------------
 [Basic Query](#basic_query)</br>
 [WHERE Clause](#where)</br>
