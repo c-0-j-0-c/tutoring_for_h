@@ -69,8 +69,10 @@ Let's say we have another table named Cat_Ownership_Summary (which was derived f
 
 Table Cat_Ownership_Summary
 
+```
 ID | NumCats
 0  | 2
+```
 
 We want to see the person's id and number of cats who own more than 2 cats. We can use the greater than sign, `>`
 ```
