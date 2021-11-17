@@ -68,3 +68,11 @@ FROM Cat_Ownership_Summary
 WHERE NumCats >= 3 AND NumCats <= 6;
 ```
 
+A person named Zara created a 'Z' day on the 2nd February. They want to find all people with a given name starting with 'Z' so they can celebrate Z day together.
+We can use the operator `LIKE` with the string operator `%` to represent 1 or more wildcard characters.
+```
+SELECT 'First Name', Surname, DOB
+FROM Person
+WHERE 'First Name' LIKE 'Z%'
+```
+
